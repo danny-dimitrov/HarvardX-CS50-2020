@@ -1,2 +1,2 @@
-# HarvardX CS50 Introduction to Computer Science 2020
+# HarvardX CS50 »_Introduction to Computer Science_« 2020
 
